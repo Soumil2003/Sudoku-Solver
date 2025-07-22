@@ -21,7 +21,7 @@ A web-based tool built with **Streamlit** that can:
 
 - `Python`
 - `Streamlit`
-- `NumPy` / `Pandas` (if used)
+- `NumPy` / `Pandas` 
 - Custom logic for puzzle solving/generation
 
 ---
