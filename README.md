@@ -13,7 +13,6 @@ A web-based tool built with **Streamlit** that can:
 
 - ✅ Instant puzzle solving
 - 🔁 Random Sudoku generator
-- ✏️ Interactive user input
 - 🧠 Uses backtracking algorithm for solving
 
 ---
