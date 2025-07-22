@@ -1,17 +1,38 @@
-# Sudoku Solver & Generator
+# 🧩 Sudoku Solver & Generator using Streamlit
 
-A simple, clean Sudoku app built using Python and Streamlit.
+A web-based tool built with **Streamlit** that can:
+- 🔢 Solve any valid Sudoku puzzle
+- 🎲 Generate new solvable Sudoku puzzles
+- ⚡ Offer an interactive UI for puzzle input & solving
 
-## Features
-- Generate Sudoku puzzles (easy, medium, hard)
-- Solve puzzles using backtracking
-- Upload `.txt` or `.csv` puzzles
-- Clean grid interface using Streamlit
 
-## 🚀 Run It Locally
 
+---
+
+## 🚀 Features
+
+- ✅ Instant puzzle solving
+- 🔁 Random Sudoku generator
+- ✏️ Interactive user input
+- 🧠 Uses backtracking algorithm for solving
+
+---
+
+## 📦 Tech Stack
+
+- `Python`
+- `Streamlit`
+- `NumPy` / `Pandas` (if used)
+- Custom logic for puzzle solving/generation
+
+---
+
+## 🖥️ Usage
+
+### 🔧 Installation
 ```bash
-git clone https://github.com/yourusername/sudoku-solver.git
-cd sudoku-solver
+git clone https://github.com/your-username/sudoku-streamlit.git
+cd sudoku-streamlit
 pip install -r requirements.txt
 streamlit run app.py
+
